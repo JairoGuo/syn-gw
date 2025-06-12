@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d671eb29.css",
-    "main.js": "/static/js/main.7fbc58fb.js",
+    "main.css": "/static/css/main.3a70cecb.css",
+    "main.js": "/static/js/main.6430f393.js",
     "static/js/453.aaa4147d.chunk.js": "/static/js/453.aaa4147d.chunk.js",
     "static/media/视频图@2x.png": "/static/media/视频图@2x.334195490634cc02cdf6.png",
     "static/media/视频图1@2x.png": "/static/media/视频图1@2x.81495e5dbb10c22f8cc4.png",
     "static/media/视频图4@2x.png": "/static/media/视频图4@2x.47f77d1e5a9f982f7052.png",
     "static/media/视频图2@2x.png": "/static/media/视频图2@2x.086699e1cc8ef234e6af.png",
     "static/media/视频图3@2x.png": "/static/media/视频图3@2x.1bb5590ec08be6f95821.png",
+    "static/media/融资底图@2x.jpg": "/static/media/融资底图@2x.77ffdfeb79fc552ade1b.jpg",
     "static/media/图-公司成立@2x.png": "/static/media/图-公司成立@2x.20e7b041368ca61a0dd5.png",
-    "static/media/融资底图@2x.png": "/static/media/融资底图@2x.de3c6b144ce0929c0546.png",
     "static/media/图-社区走访@2x.png": "/static/media/图-社区走访@2x.6c08ea473f567b35043a.png",
     "static/media/图-受邀参展@2x.png": "/static/media/图-受邀参展@2x.e093db50d8171b915fe0.png",
     "static/media/论文图片@2x.png": "/static/media/论文图片@2x.b8bcefd9cc9e7d78d693.png",
@@ -24,16 +24,17 @@
     "static/media/食物图片二@2x.png": "/static/media/食物图片二@2x.d7e4924930edd213c1f6.png",
     "static/media/阶梯@2x.png": "/static/media/阶梯@2x.c663e2e9102262c4e7cc.png",
     "static/media/食物图片一@2x.png": "/static/media/食物图片一@2x.063674f73da673680a1e.png",
+    "static/media/瘦金体logo@2x.png": "/static/media/瘦金体logo@2x.51452e30fe947f48e133.png",
     "static/media/案例图片1@2x.png": "/static/media/案例图片1@2x.5328b5af17a240bc361a.png",
     "static/media/头像-谢纯@2x (1).png": "/static/media/头像-谢纯@2x (1).69bc34b5c53ce53f67d7.png",
     "static/media/案例图片2.png": "/static/media/案例图片2.d11b6afba952e9e5f272.png",
     "index.html": "/index.html",
-    "main.d671eb29.css.map": "/static/css/main.d671eb29.css.map",
-    "main.7fbc58fb.js.map": "/static/js/main.7fbc58fb.js.map",
+    "main.3a70cecb.css.map": "/static/css/main.3a70cecb.css.map",
+    "main.6430f393.js.map": "/static/js/main.6430f393.js.map",
     "453.aaa4147d.chunk.js.map": "/static/js/453.aaa4147d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d671eb29.css",
-    "static/js/main.7fbc58fb.js"
+    "static/css/main.3a70cecb.css",
+    "static/js/main.6430f393.js"
   ]
 }
