@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.4681f148.css",
-    "main.js": "/static/js/main.9e1fb346.js",
+    "main.js": "/static/js/main.ac5c89d5.js",
     "static/js/453.849c8dac.chunk.js": "/static/js/453.849c8dac.chunk.js",
+    "static/media/视频图6@2x.jpg": "/static/media/视频图6@2x.c6e7a3e25d4787efc84b.jpg",
     "static/media/视频图@2x.png": "/static/media/视频图@2x.334195490634cc02cdf6.png",
     "static/media/视频图1@2x.png": "/static/media/视频图1@2x.81495e5dbb10c22f8cc4.png",
+    "static/media/视频图5@2x.jpg": "/static/media/视频图5@2x.1a4474a06970c60f21ad.jpg",
     "static/media/视频图4@2x.png": "/static/media/视频图4@2x.47f77d1e5a9f982f7052.png",
     "static/media/视频图2@2x.png": "/static/media/视频图2@2x.086699e1cc8ef234e6af.png",
     "static/media/视频图3@2x.png": "/static/media/视频图3@2x.1bb5590ec08be6f95821.png",
@@ -30,11 +32,11 @@
     "static/media/案例图片2.png": "/static/media/案例图片2.d11b6afba952e9e5f272.png",
     "index.html": "/index.html",
     "main.4681f148.css.map": "/static/css/main.4681f148.css.map",
-    "main.9e1fb346.js.map": "/static/js/main.9e1fb346.js.map",
+    "main.ac5c89d5.js.map": "/static/js/main.ac5c89d5.js.map",
     "453.849c8dac.chunk.js.map": "/static/js/453.849c8dac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4681f148.css",
-    "static/js/main.9e1fb346.js"
+    "static/js/main.ac5c89d5.js"
   ]
 }
